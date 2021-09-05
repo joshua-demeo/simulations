@@ -10,5 +10,7 @@ How can we better understand how incremental reach changes over time?
 
 
 ### Monty Hall Problem
+
+Goat or car? Which do you want more?
 <br>
 <center><img src="images/monty_hall_problem.png" alt="monty_hall_problem" width=600></center>
